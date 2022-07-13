@@ -1,6 +1,6 @@
 # Bikeshare Project
 
-This project introduces basic Python to **analyze** data and create an **interactive** script.
+This project introduces basic Python to **analyze** data and generates an **interactive** script.
 
 TO DO:
 
